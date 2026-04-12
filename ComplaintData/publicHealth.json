@@ -1,0 +1,452 @@
+[
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "There is an intense, pungent chemical smell coming from the industrial shed near our homes; people are choking and two children have fainted near the main chowk."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A pack of rabid stray dogs has taken over the lane behind the civil hospital; they have already bitten four people since morning."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Visible toxic fumes are leaking from a cylinder at the local scrap yard near the metro pillar; the whole area is gasping for air."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "There is a sudden outbreak of severe vomiting and diarrhea in our colony; over 20 families are affected after using the municipal water today."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A massive swarm of aggressive hornets has built a nest right over the entrance of the primary school; it's impossible to enter safely."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Illegal hazardous chemicals are being drained directly into the open nallah near the residential block; the water is turning bright purple and smoking."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A deep, uncovered pit left by contractors near the busy bus stand is filling with rainwater; it’s a drowning hazard for small children."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "The lift in the public hospital is stuck with a pregnant lady inside, and the emergency alarm is not working. Send help immediately!"
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Someone has dumped several bags of expired heavy antibiotics and chemicals in the open ground where the local kids play cricket."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A large billboard at the intersection has partially snapped and is swinging over the road; it will crush someone if it falls."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Stray monkeys in the market area have become extremely violent; they are attacking people carrying grocery bags and biting seniors."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Dense, black soot is coming out of the chimney of the bakery next to our apartment; we can't breathe and our balconies are covered in ash."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A high-pressure steam pipe has burst inside the public laundry facility near the station; the area is filled with scalding steam."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Several dead rats have been found inside the main water storage tank of the locality; this is a massive plague and cholera risk."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "An illegal pharmacy is selling loose, unbranded medicines to laborers behind the construction site; people are falling seriously ill."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "The glass panes of the overhead pedestrian bridge are shattering and falling onto the heavy traffic below."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "The fire hydrants in this commercial block are all rusted shut and the surrounding area is blocked by illegal kiosks."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A huge portion of the sidewalk has collapsed into a 10-foot deep storm drain near the rickshaw stand; emergency barricading is needed."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "There is a major gas leak from the pipeline under the pavement near the cinema hall; you can hear the hissing sound from 50 meters."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Construction workers are not using any dust suppression near the hospital; the air is thick with cement dust, choking the patients."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A transformer in the market has started leaking a sticky, foul-smelling liquid that is causing skin irritation to people passing by."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "The structural beams of the old community hall are cracking loudly; we were inside for a meeting and had to run out in panic."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Wild pigs are raiding the kitchen waste behind the school and have attacked a teacher; this is a huge safety and hygiene issue."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "The temporary bridge for the festival is swaying dangerously and the wooden planks are snapping under the weight of the crowd."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A truck carrying loose glass shards has overturned at the main crossing; the entire road is a hazard for commuters."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "A massive sinkhole has appeared right in front of the maternity clinic entrance; ambulances can't get in."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Someone has dumped a barrel of used engine oil into the neighborhood well; the water is now toxic."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "The central pillar of the old flyover has a huge vertical crack and the road above is sagging."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "An illegal pesticide factory in the basement of a residential building is releasing fumes that are making residents nauseous."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "High",
+    "Complaint": "Raw, untreated sewage is being used to water the vegetables in the fields behind the station; this is a huge health violation."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Stagnant water in the abandoned plot near the station is becoming a massive breeding ground for mosquitoes; everyone has fever."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The local meat shop is throwing waste in the open, attracting a lot of vultures and stray animals to our residential street."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Fogging for mosquitoes hasn't been done in our area for over a month despite the sharp rise in dengue cases."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Noise pollution from the industrial generator behind the school is making it impossible for students to concentrate."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The street food vendors near the temple are using highly contaminated water to wash plates and serve food."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "A small pond of green, scummy water has formed near the park entrance because of a slow leak; the mosquito menace is terrible."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Stray dogs are sleeping inside the public hospital corridors; this is very unhygienic for the patients."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The local grocery store is selling milk that smells sour and bread that has visible mold on it."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The public gym equipment in the park is rusted and has sharp edges; several people have gotten cuts while exercising."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Loudspeakers from the marriage hall near the clinic are playing music until 2 AM, disturbing the heart patients."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The local barber shops are not using fresh blades or sanitizing their tools; this is a risk for skin infections."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "An illegal garbage sorting unit in our lane is causing a massive fly infestation in all our kitchens."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The dust from the marble cutting unit in the market is causing persistent coughing among the shopkeepers."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "There is a dead pigeon stuck in the ventilation duct of the public library; the smell is making the hall unusable."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "A lot of people are defecating in the open behind the metro pillar because the public toilets are always locked."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The hand sanitizer dispensers at the municipal office are all empty and have been for weeks."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Rat burrows have appeared all along the footpath near the sweets shop; the sidewalk is starting to cave in."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The cooling towers of the mall are spraying mist directly onto the sidewalk, which smells like stale chemicals."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Frequent smoke from the burning of plastic at the nearby dump is causing itchy eyes for the whole colony."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The communal drinking water tap near the chowk has a dirty, green fungus growing all over the nozzle."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "A local clinic is disposing of its bandages and blood-stained cotton in the regular domestic trash bin."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The overhead water tank of our sector hasn't been cleaned in years; we can see black residue in our buckets."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Large numbers of stray cats are living in the basement of the shopping complex, creating a huge flea problem."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The paint on the children's slide in the park is flaking off and looks like it might contain lead; it's very old."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The local pond is covered in water hyacinth and the resulting mosquito swarm is making it impossible to sit on the benches."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Street lights in the park are very dim, providing cover for people to consume alcohol and create a nuisance."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The local juice center is using ice that is transported in very dirty sacks on the floor of a rickshaw."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "Abandoned vehicles behind the post office are filled with stagnant water and are breeding grounds for insects."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The drainage at the local fish market is blocked, and the slush is flowing onto the main walking path."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Medium",
+    "Complaint": "The smell of rotting vegetables from the market is attracting too many rats to the nearby residential houses."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Stray cattle are frequently sitting on the main road near the bank, causing minor traffic slow-downs."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The public urinals near the market need better ventilation; they smell quite bad even from a distance."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The grass in the community center backyard is too long and might attract snakes or insects if not trimmed."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The 'No Smoking' signs in the public park are faded and need to be replaced with new ones."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Requesting an awareness drive about the importance of wearing helmets near the college campus."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "There are some old, rusted iron pipes lying on the side of the lane that should be removed."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The information board about dengue prevention at the clinic is covered with commercial posters."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "A small amount of silt has gathered in the corner of the park's walking track after the wash."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Requesting more dustbins to be placed along the riverfront to prevent people from throwing food to the fish."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The paint on the height-marker at the underpass is peeling and hard to see at night."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "A few tree branches are overhanging the sidewalk near the hospital and need a light trim for better visibility."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The public fountain at the chowk has a thin layer of algae and needs its weekly cleaning."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Requesting a first-aid kit to be maintained at the park's guard cabin for minor scrapes."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The benches in the hospital waiting area are a bit dusty and need more regular wiping."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Some old flyers about health camps are still pasted on the metro pillars and should be cleared."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The 'Keep Left' signage on the park track is slightly tilted and needs to be fixed."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "A small amount of sand from the construction site has blown onto the sidewalk near the nursery."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The hand-washing station at the market entrance is missing soap today."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Requesting a board showing the contact number of the local health officer at the colony gate."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The decorative bushes near the municipal clinic are growing over the path."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "One of the ceiling fans in the public library is making a clicking sound."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The yellow safety lines at the metro platform edge are slightly faded in certain spots."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "There is a bit of dry moss on the shaded part of the public seating area near the park."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Requesting a regular health check-up camp for the sanitation workers in our sector."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The glass door of the public toilet has some handprints and needs cleaning."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "A small amount of bird nesting material is scattered near the hospital parking entrance."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The 'Silence Zone' board near the library is slightly hidden behind a tree branch."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Some loose gravel is scattered on the sidewalk near the primary school, making it a bit slippery for kids."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "Requesting new posters regarding 'Plastic-Free City' for the local bazaar area."
+  },
+  {
+    "Department": "Public Health & Safety",
+    "Urgency level": "Low",
+    "Complaint": "The paint on the park's exercise bars is starting to look a bit dull."
+  }
+]

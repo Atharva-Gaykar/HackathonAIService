@@ -1,0 +1,452 @@
+[
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "A transformer has exploded near the local market and live wires are dancing on the wet street; it's an immediate life threat."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "Live wires have snapped and fallen onto the metal railing of the primary school gate; someone will get electrocuted."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The electric pole behind the civil hospital is sparking violently and dropping molten plastic onto the parked ambulances."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "A high-tension wire is dangling just 5 feet above the waterlogged road at the main chowk after the heavy rain."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "Thick black smoke and flames are coming out of the underground junction box near metro pillar 210."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The main power cable has snapped and is submerged in a large puddle at the entrance of the crowded slum pocket."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "An electric pole near the petrol pump has been hit by a truck and is leaning dangerously at a 45-degree angle."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The feeder pillar box in the park is wide open with all live busbars exposed; children are playing right next to it."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "Heavy sparking is occurring where the overhead lines pass through the branches of the big peepal tree near the temple."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "An explosion just occurred in the DP box near the milk booth, and the entire metal casing is now electrified."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The stay-wire of the electric pole near the auto stand is leaking current; a stray cow just got a shock from it."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "During the storm, a service wire snapped and is now resting on the metal roof of the temporary vegetable stalls."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The insulator on the high-voltage pole near the flyover has shattered, and the wire is touching the iron cross-arm."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "A fire has broken out in the cable bundle at the corner of the busy intersection; burning wires are falling on bikers."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The underground cable has burst, and smoke is coming out from the cracks in the pavement tiles near the bank."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The overhead wire has come loose and is whipping around in the wind near the pedestrian foot-over-bridge."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The transformer near the community center is humming extremely loudly and leaking hot oil onto the sidewalk."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "A construction crane hit the 11kV line near the mall; the tires of the crane are smoking and the area is dangerous."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The electric meter room in our apartment basement is flooded with sewage water and the panels are sparking."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "Low-hanging wires behind the railway station are being hit by the tops of passing trucks, causing constant explosions."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The earthing wire of the transformer near the library is broken and the entire structure is vibrating with current."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "A wire has snapped and fallen onto the wet laundry lines in the residential colony; multiple houses are under risk."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "Total blackout in the emergency ward of the local clinic because the main service line caught fire at the junction."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The junction box near the bus stop is submerged in 2 feet of water and bubbles are forming; clearly, it is leaking electricity."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "Overhead wires are clashing against each other in the wind near the cinema hall, creating a rain of sparks."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The HT cable passing over the terrace of the grocery store is so low that anyone can touch it by accident."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "A short circuit in the streetlight pole near the park gate has turned the entire pole live; a kid got a minor shock today."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The internal wiring of the public water booth is sparking and smoke is coming from the dispenser."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "A high-tension wire has fallen into the canal behind the factory; the water is now potentially electrified for kilometers."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "High",
+    "Complaint": "The pole-mounted transformer near the nursery is tilting and the bolts holding it have almost sheared off."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The entire streetlighting system on the bypass road has been dead for three nights, making it very unsafe for commuters."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "Frequent voltage fluctuations in Sector 4 are burning out expensive domestic appliances like fridges and ACs every day."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "There has been a single-phase power failure in our lane for the last 12 hours; only half the lights in my house are working."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The street light in front of house number 12 is flickering constantly, which is very annoying and attracts swarms of insects."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The automatic timer for the park lights is broken; the lights stay on all day, wasting immense amounts of energy."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "Our locality is facing unannounced power cuts for 4-5 hours every afternoon despite it not being a load-shedding zone."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The digital meter in my shop is running at an incredibly high speed even when all the heavy equipment is turned off."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The streetlight pole behind the mall has a missing service door, and the wires inside are jumbled and causing localized trips."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "High voltage is being supplied to our colony today; bulbs are popping and fans are running at dangerously high speeds."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The main cable connecting the transformer to our lane is overheated and sagging very low due to over-loading."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "We haven't received our physical electricity bill for two months, and the online portal is showing a 'no record found' error."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The capacitor bank at the local substation is making a loud, deafening whistling noise that is disturbing the whole neighborhood."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "Streetlights in the alley behind the post office haven't worked since the new road was built; it's pitch dark at night."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The insulation on the service wire entering my house has cracked, and it causes small sparks whenever it rains."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "Our street has 10 poles but only 2 have working bulbs; the rest have been fused for over a month."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The 'Smart Meter' installed recently is not showing the reading correctly and seems to be malfunctioning."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "Tree branches are heavily overgrown and touching the wires near the temple; it's causing the power to trip every time the wind blows."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The streetlights stay on until 10 AM every morning because the sensor is covered in dust and bird droppings."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The voltage in our area is so low (around 140V) that the water pump and refrigerator cannot even start."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The fuse box on the pole near the sweets shop keeps blowing out every evening during peak load hours."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "A heavy commercial connection has been taken illegally from our residential transformer, leading to frequent tripping."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The street light in the children's park has been hanging by its wire for a week and could fall on someone."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "Our electricity bill is showing a 'minimum charge' of 5000 rupees despite the house being locked for the whole month."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The underground cable fault near the bakery was located but the team left without completing the jointing work."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The noise from the transformer near my window is so loud at night that I cannot sleep; it needs servicing or oiling."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "Every time the metro passes, the power in our colony fluctuates for a few seconds."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The streetlights in our lane are too dim; we need higher wattage LED bulbs for better security."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "A bird has built a massive nest inside the transformer cage, which is causing frequent short circuits."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The neutral wire in our building has become loose, and we are getting a mild shock from all the metal taps."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Medium",
+    "Complaint": "The meter reader hasn't visited for three cycles, and we are being sent 'average' bills which are very high."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The electrical meter box door in our lane is hanging loose on one hinge and needs a simple lock."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The pole number and danger sign on the electric post near the library have faded and need repainting."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The decorative LED strips installed on the main chowk poles for the festival have not been removed yet."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The glass cover of the streetlight in front of the park is very dusty, which reduces the light intensity slightly."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The paint on the electrical junction box near the bus stand is peeling off and looks very shabby."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "A small creeper plant has started growing up the electric pole near my house; it should be cleared before it reaches the wires."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The 'Danger' plate on the transformer fence near the school is bent and rattling in the wind."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "Requesting a change of the old rusty brackets holding the service wires on our building wall."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The plastic cover of the digital meter in our sector's common area is slightly cracked but the meter works fine."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The base of the electric pole near the chowk has become a spot for people to stick posters, which looks untidy."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The street light near the temple is slightly tilted and the light falls more on the wall than on the road."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "A lot of dry leaves have accumulated inside the fenced area of the colony transformer; it needs a routine cleaning."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The numbering on the electrical meters in our apartment is confusing and needs to be labeled clearly."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "One of the clips holding the overhead cable near the metro pillar has come loose, causing the wire to sag a few inches."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The anti-climbing barbed wire on the electric pole near the market has rusted and is falling off."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "Requesting a fresh coat of anti-rust paint for the DP box located behind the civil hospital."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The LED indicator on the street light pole is not working, although the main light is fine."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "Some old defunct wires are still hanging from the pole near the railway station and should be removed."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The concrete platform of the electric pole near the bank is chipped at the corners."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The lock on the substation gate is getting jammed and needs some oiling for smooth operation."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "There is a small amount of bird nesting material on top of the streetlight arm near the clinic."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The 'Electricity Dept' contact board near the colony gate is faded and the numbers are hard to read."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "A small amount of sand has gathered around the base of the feeder pillar after the last windstorm."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The yellow paint used to mark 'No Parking' under the transformer is getting dim."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The plastic pipe covering the earthing wire of the pole near the mall is cracked."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "One of the decorative fountain lights at the main chowk is slightly misaligned."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The service door of the high-mast lighting pole is a bit stiff and hard to open for maintenance."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "A small amount of moss has grown on the concrete base of the transformer near the nallah."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The plastic cable ties on the service bundle near my house have become brittle and are snapping."
+  },
+  {
+    "Department": "Electricity",
+    "Urgency level": "Low",
+    "Complaint": "The grounding pit cover near the community hall is slightly loose and rattles when people walk over it."
+  }
+]

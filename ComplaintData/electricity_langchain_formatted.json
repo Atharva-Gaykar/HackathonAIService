@@ -1,0 +1,632 @@
+[
+    {
+        "page_content": "A transformer has exploded near the local market and live wires are dancing on the wet street; it's an immediate life threat.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "Live wires have snapped and fallen onto the metal railing of the primary school gate; someone will get electrocuted.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The electric pole behind the civil hospital is sparking violently and dropping molten plastic onto the parked ambulances.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "A high-tension wire is dangling just 5 feet above the waterlogged road at the main chowk after the heavy rain.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "Thick black smoke and flames are coming out of the underground junction box near metro pillar 210.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The main power cable has snapped and is submerged in a large puddle at the entrance of the crowded slum pocket.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "An electric pole near the petrol pump has been hit by a truck and is leaning dangerously at a 45-degree angle.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The feeder pillar box in the park is wide open with all live busbars exposed; children are playing right next to it.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "Heavy sparking is occurring where the overhead lines pass through the branches of the big peepal tree near the temple.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "An explosion just occurred in the DP box near the milk booth, and the entire metal casing is now electrified.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The stay-wire of the electric pole near the auto stand is leaking current; a stray cow just got a shock from it.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "During the storm, a service wire snapped and is now resting on the metal roof of the temporary vegetable stalls.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The insulator on the high-voltage pole near the flyover has shattered, and the wire is touching the iron cross-arm.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "A fire has broken out in the cable bundle at the corner of the busy intersection; burning wires are falling on bikers.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The underground cable has burst, and smoke is coming out from the cracks in the pavement tiles near the bank.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The overhead wire has come loose and is whipping around in the wind near the pedestrian foot-over-bridge.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The transformer near the community center is humming extremely loudly and leaking hot oil onto the sidewalk.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "A construction crane hit the 11kV line near the mall; the tires of the crane are smoking and the area is dangerous.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The electric meter room in our apartment basement is flooded with sewage water and the panels are sparking.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "Low-hanging wires behind the railway station are being hit by the tops of passing trucks, causing constant explosions.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The earthing wire of the transformer near the library is broken and the entire structure is vibrating with current.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "A wire has snapped and fallen onto the wet laundry lines in the residential colony; multiple houses are under risk.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "Total blackout in the emergency ward of the local clinic because the main service line caught fire at the junction.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The junction box near the bus stop is submerged in 2 feet of water and bubbles are forming; clearly, it is leaking electricity.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "Overhead wires are clashing against each other in the wind near the cinema hall, creating a rain of sparks.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The HT cable passing over the terrace of the grocery store is so low that anyone can touch it by accident.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "A short circuit in the streetlight pole near the park gate has turned the entire pole live; a kid got a minor shock today.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The internal wiring of the public water booth is sparking and smoke is coming from the dispenser.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "A high-tension wire has fallen into the canal behind the factory; the water is now potentially electrified for kilometers.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The pole-mounted transformer near the nursery is tilting and the bolts holding it have almost sheared off.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "High"
+        }
+    },
+    {
+        "page_content": "The entire streetlighting system on the bypass road has been dead for three nights, making it very unsafe for commuters.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "Frequent voltage fluctuations in Sector 4 are burning out expensive domestic appliances like fridges and ACs every day.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "There has been a single-phase power failure in our lane for the last 12 hours; only half the lights in my house are working.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The street light in front of house number 12 is flickering constantly, which is very annoying and attracts swarms of insects.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The automatic timer for the park lights is broken; the lights stay on all day, wasting immense amounts of energy.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "Our locality is facing unannounced power cuts for 4-5 hours every afternoon despite it not being a load-shedding zone.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The digital meter in my shop is running at an incredibly high speed even when all the heavy equipment is turned off.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The streetlight pole behind the mall has a missing service door, and the wires inside are jumbled and causing localized trips.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "High voltage is being supplied to our colony today; bulbs are popping and fans are running at dangerously high speeds.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The main cable connecting the transformer to our lane is overheated and sagging very low due to over-loading.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "We haven't received our physical electricity bill for two months, and the online portal is showing a 'no record found' error.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The capacitor bank at the local substation is making a loud, deafening whistling noise that is disturbing the whole neighborhood.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "Streetlights in the alley behind the post office haven't worked since the new road was built; it's pitch dark at night.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The insulation on the service wire entering my house has cracked, and it causes small sparks whenever it rains.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "Our street has 10 poles but only 2 have working bulbs; the rest have been fused for over a month.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The 'Smart Meter' installed recently is not showing the reading correctly and seems to be malfunctioning.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "Tree branches are heavily overgrown and touching the wires near the temple; it's causing the power to trip every time the wind blows.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The streetlights stay on until 10 AM every morning because the sensor is covered in dust and bird droppings.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The voltage in our area is so low (around 140V) that the water pump and refrigerator cannot even start.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The fuse box on the pole near the sweets shop keeps blowing out every evening during peak load hours.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "A heavy commercial connection has been taken illegally from our residential transformer, leading to frequent tripping.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The street light in the children's park has been hanging by its wire for a week and could fall on someone.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "Our electricity bill is showing a 'minimum charge' of 5000 rupees despite the house being locked for the whole month.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The underground cable fault near the bakery was located but the team left without completing the jointing work.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The noise from the transformer near my window is so loud at night that I cannot sleep; it needs servicing or oiling.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "Every time the metro passes, the power in our colony fluctuates for a few seconds.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The streetlights in our lane are too dim; we need higher wattage LED bulbs for better security.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "A bird has built a massive nest inside the transformer cage, which is causing frequent short circuits.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The neutral wire in our building has become loose, and we are getting a mild shock from all the metal taps.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The meter reader hasn't visited for three cycles, and we are being sent 'average' bills which are very high.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Medium"
+        }
+    },
+    {
+        "page_content": "The electrical meter box door in our lane is hanging loose on one hinge and needs a simple lock.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The pole number and danger sign on the electric post near the library have faded and need repainting.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The decorative LED strips installed on the main chowk poles for the festival have not been removed yet.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The glass cover of the streetlight in front of the park is very dusty, which reduces the light intensity slightly.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The paint on the electrical junction box near the bus stand is peeling off and looks very shabby.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "A small creeper plant has started growing up the electric pole near my house; it should be cleared before it reaches the wires.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The 'Danger' plate on the transformer fence near the school is bent and rattling in the wind.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "Requesting a change of the old rusty brackets holding the service wires on our building wall.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The plastic cover of the digital meter in our sector's common area is slightly cracked but the meter works fine.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The base of the electric pole near the chowk has become a spot for people to stick posters, which looks untidy.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The street light near the temple is slightly tilted and the light falls more on the wall than on the road.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "A lot of dry leaves have accumulated inside the fenced area of the colony transformer; it needs a routine cleaning.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The numbering on the electrical meters in our apartment is confusing and needs to be labeled clearly.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "One of the clips holding the overhead cable near the metro pillar has come loose, causing the wire to sag a few inches.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The anti-climbing barbed wire on the electric pole near the market has rusted and is falling off.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "Requesting a fresh coat of anti-rust paint for the DP box located behind the civil hospital.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The LED indicator on the street light pole is not working, although the main light is fine.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "Some old defunct wires are still hanging from the pole near the railway station and should be removed.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The concrete platform of the electric pole near the bank is chipped at the corners.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The lock on the substation gate is getting jammed and needs some oiling for smooth operation.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "There is a small amount of bird nesting material on top of the streetlight arm near the clinic.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The 'Electricity Dept' contact board near the colony gate is faded and the numbers are hard to read.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "A small amount of sand has gathered around the base of the feeder pillar after the last windstorm.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The yellow paint used to mark 'No Parking' under the transformer is getting dim.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The plastic pipe covering the earthing wire of the pole near the mall is cracked.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "One of the decorative fountain lights at the main chowk is slightly misaligned.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The service door of the high-mast lighting pole is a bit stiff and hard to open for maintenance.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "A small amount of moss has grown on the concrete base of the transformer near the nallah.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The plastic cable ties on the service bundle near my house have become brittle and are snapping.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    },
+    {
+        "page_content": "The grounding pit cover near the community hall is slightly loose and rattles when people walk over it.",
+        "metadata": {
+            "department": "Electricity",
+            "urgency_level": "Low"
+        }
+    }
+]
