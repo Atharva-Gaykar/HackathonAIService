@@ -58,7 +58,13 @@ async def process_complaint(request: MernComplaintRequest):
 
         # 2. Invoke the LangGraph Workflow
         # This runs: classify -> group_duplicates -> calculate_priority
-        final_state = graph.invoke(initial_state)
+        config = {
+            
+            "configurable": {
+                "thread_id": request.user_id
+            }
+        }
+        final_state = graph.invoke(initial_state, config=config)
 
         # 3. Extract and return only the required computed parts
         return ComplaintProcessingResponse(
