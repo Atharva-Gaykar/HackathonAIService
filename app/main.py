@@ -64,7 +64,7 @@ async def process_complaint(request: MernComplaintRequest):
                 "thread_id": request.user_id
             }
         }
-        final_state = graph.invoke(initial_state, config=config)
+        final_state = graph.invoke(initial_state, config=config,debug=True)
 
         # 3. Extract and return only the required computed parts
         return ComplaintProcessingResponse(
