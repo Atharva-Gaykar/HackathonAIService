@@ -1,8 +1,11 @@
 from langchain_groq import ChatGroq
-
-from langchain_groq import ChatGroq
+from config import settings
 from schemas import ComplaintClassificationResponse
+import os
 
+
+if "GROQ_API_KEY" not in os.environ:
+    os.environ["GROQ_API_KEY"] = settings.GROQ_API_KEY
 
 
 base_model=ChatGroq(

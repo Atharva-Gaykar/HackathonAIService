@@ -15,9 +15,7 @@ class Settings(BaseSettings):
     PINECONE_ENVIRONMENT: str 
     
     # Database Configuration
-    # Fallback to local sqlite if not provided
     DATABASE_URL: str 
-
 
     # Pydantic Settings Config
     model_config = SettingsConfigDict(
