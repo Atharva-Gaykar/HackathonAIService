@@ -26,4 +26,7 @@ workflow.add_conditional_edges(
 
 workflow.add_edge("store_data", END)
 
-graph = workflow.compile()
+
+from langgraph.checkpoint.memory import MemorySaver
+checkpointer = MemorySaver()
+graph = workflow.compile(checkpointer=checkpointer)
