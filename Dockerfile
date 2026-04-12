@@ -29,4 +29,4 @@ COPY --chown=user . $HOME/app
 EXPOSE 7860
 
 # Start the FastAPI app on port 7860 (HF Spaces default)
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "7860"]
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "7860"]

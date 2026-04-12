@@ -26,7 +26,7 @@ input={
     "user_id": user_id
 }
 
-final_send_state = graph.invoke(input, config=config)
+# final_send_state = graph.invoke(input, config=config)
 
-print(final_send_state)
+# print(final_send_state)
 
