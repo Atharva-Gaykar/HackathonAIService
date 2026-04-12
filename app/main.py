@@ -52,7 +52,7 @@ async def process_complaint(request: MernComplaintRequest):
             "urgency_level": "Low",
             "priority": 0.0,
             "db_id": None,
-            "frequency": 1,
+            "frequency": 0,
             "is_duplicate": False
         }
 
