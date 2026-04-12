@@ -1,6 +1,6 @@
 from langchain_groq import ChatGroq
-from config import settings
-from schemas import ComplaintClassificationResponse
+from app.core.config import settings
+from app.schemas.schemas import ComplaintClassificationResponse
 import os
 
 

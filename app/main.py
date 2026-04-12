@@ -2,10 +2,9 @@ import os
 from fastapi import FastAPI, HTTPException, Depends
 from pydantic import BaseModel, Field
 from typing import Optional
-
 # Importing internal modules
-from config import settings
-from graph import graph # The compiled LangGraph instance
+from app.core.config import settings
+from app.graph import graph # The compiled LangGraph instance
 
 app = FastAPI(title=settings.PROJECT_NAME)
 

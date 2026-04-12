@@ -1,6 +1,6 @@
-from state import ComplaintState
+from app.state.state import ComplaintState
 from langgraph.graph import StateGraph, START, END
-from nodes import classify_complaint_node, group_duplicate_complaints_node, calculate_priority_node, store_data_node, router
+from app.nodes.nodes import classify_complaint_node, group_duplicate_complaints_node, calculate_priority_node, store_data_node, router
 workflow = StateGraph(ComplaintState)
 
 # Add Nodes

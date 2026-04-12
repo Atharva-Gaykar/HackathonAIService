@@ -2,13 +2,17 @@ from sqlalchemy.orm import sessionmaker, Session
 from sqlalchemy import create_engine, Column, Integer, String, Float, ForeignKey
 from sqlalchemy.orm import declarative_base, relationship, sessionmaker
 import os
-from dotenv import load_dotenv
+from app.core.config import settings
+
+DB_URL=settings.DATABASE_URL
+
+
+
 
 # This loads the variables from your .env file into the system environment
-load_dotenv()
 
 # Access them using os.getenv()
-DB_URL= os.getenv("DB_URL")
+
 
 Base = declarative_base()
 

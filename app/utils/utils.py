@@ -1,5 +1,5 @@
 from sqlalchemy import and_
-from database import Complaint, ComplaintUser
+from app.database.connection import Complaint, ComplaintUser
 import numpy as np
 
 

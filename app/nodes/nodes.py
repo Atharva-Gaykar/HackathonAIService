@@ -1,10 +1,10 @@
-from state import ComplaintState
-from database import Complaint, ComplaintUser, get_session
+from app.state.state import ComplaintState
+from app.database.connection import Complaint, ComplaintUser, get_session
 from typing import Literal
 from sqlalchemy.orm import Session
-from agents import complaint_classifier_agent
-from vectordatabase import matching_retriever,retriever
-from utils import *
+from app.vectordatabase.pinecone import matching_retriever,retriever
+from app.ai_agents.agents import complaint_classifier_agent
+from app.utils.utils import *
 
 # Assuming these are available in your global environment or config
 # from config import matching_retriever, get_session

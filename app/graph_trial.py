@@ -1,4 +1,4 @@
-from graph import graph
+from app.graph import graph
 
 from langgraph.checkpoint.memory import MemorySaver
 checkpointer = MemorySaver()
