@@ -23,7 +23,6 @@ def classify_complaint_node(state: ComplaintState):
     # Access attributes directly from the Pydantic object
     return {
         "department": parsed_result.department.value,
-        "urgency_level": getattr(parsed_result, "intensity_match", "Medium") 
     }
 
 #----------------------------------------------------------------------------------------------------------------
