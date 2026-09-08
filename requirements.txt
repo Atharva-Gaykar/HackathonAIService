@@ -9,6 +9,7 @@ psycopg2-binary==2.9.9
 transformers
 soundfile
 sentencepiece 
+supabase
 
 # Add pytorch cpu 
 # pip install git+https://github.com/VarunGumma/IndicTransToolkit.git
