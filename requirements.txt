@@ -1,5 +1,3 @@
-langchain==1.2.15
-langgraph==1.1.6
 pydantic==2.11.7
 langchain_huggingface
 langchain-groq==1.1.1
@@ -9,6 +7,8 @@ python-dotenv
 SQLAlchemy==2.0.41
 psycopg2-binary==2.9.9
 transformers
-pinecone==8.0.0
-pinecone-text
-langchain_community==0.4.1
+soundfile
+sentencepiece 
+
+# Add pytorch cpu 
+# pip install git+https://github.com/VarunGumma/IndicTransToolkit.git
