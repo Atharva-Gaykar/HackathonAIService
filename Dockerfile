@@ -6,6 +6,12 @@ WORKDIR /code
 # Copy the requirements.txt file into the container
 COPY requirements.txt .
 
+# Install system dependencies (git for pip installation, ffmpeg for audio processing)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git \
+    ffmpeg \
+    && rm -rf /var/lib/apt/lists/*
+
 # Install the dependencies
 RUN pip install --no-cache-dir --upgrade -r requirements.txt
 
