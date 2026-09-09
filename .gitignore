@@ -11,6 +11,9 @@ token.json
 
 /Notebooks
 
+/tts_outputs
+/Audio Samples
+
 # --- Python Environment ---
 __pycache__/
 *.py[cod]
