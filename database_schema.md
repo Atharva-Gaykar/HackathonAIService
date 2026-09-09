@@ -63,3 +63,7 @@ bucket/
 - `audio_storage_path` in the `messages` table stores this exact path, so it can be used directly for S3 reads/writes without reconstructing it.
 - Split by `stt/` and `tts/` at the top level (not by thread) so each pipeline can have independent lifecycle/retention rules.
 - `{client_thread_id}/` nested underneath keeps all audio for one conversation together for easy per-thread cleanup or export.
+
+
+
+![alt text](image.png)
