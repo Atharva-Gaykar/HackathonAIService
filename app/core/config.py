@@ -9,8 +9,10 @@ class Settings(BaseSettings):
     PINECONE_API_KEY: str
     DATABASE_URL: str
     SUPABASE_URL: str
+    SUPABASE_KEY: str
     SUPABASE_SERVICE_ROLE_KEY: str
     SUPABASE_BUCKET_NAME: str
+    
 
     model_config = SettingsConfigDict(
         env_file=str(BASE_DIR / ".env"),

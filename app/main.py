@@ -7,15 +7,17 @@ from app.database.object_store import supabase_client
 
 app = FastAPI()
 
-BUCKET_NAME = "user-audio-recordings"
+# Note: Ensure you have renamed the bucket in Supabase to match this, 
+# or revert it to "user-audio-recordings" if the infrastructure hasn't changed yet.
+BUCKET_NAME = "patient-audio-recordings"
 
 
 class TTSRequest(BaseModel):
     text: str
 
 
-@app.post("/users/{user_id}/threads/{client_thread_id}/messages/{client_msg_id}/{lang_code}/stt")
-def transcribe_message(user_id: str, client_thread_id: str, client_msg_id: str, lang_code: str):
+@app.post("/patients/{patient_id}/threads/{client_thread_id}/messages/{client_msg_id}/{lang_code}/stt")
+def transcribe_message(patient_id: str, client_thread_id: str, client_msg_id: str, lang_code: str):
     """
     STT only. Path params are the three IDs the client already has —
     client_msg_id is the id it generated before uploading its audio.
@@ -23,7 +25,7 @@ def transcribe_message(user_id: str, client_thread_id: str, client_msg_id: str, 
     Flow: pull the client's audio from S3 -> transcribe -> return the text.
     No TTS, no DB write here.
     """
-    input_path = f"{user_id}/stt/{client_thread_id}/{client_msg_id}.wav"
+    input_path = f"{patient_id}/stt/{client_thread_id}/{client_msg_id}.wav"
     
     try:
         audio_bytes = supabase_client.storage.from_(BUCKET_NAME).download(input_path)
@@ -45,8 +47,8 @@ def transcribe_message(user_id: str, client_thread_id: str, client_msg_id: str, 
     }
 
 
-@app.post("/users/{user_id}/threads/{client_thread_id}/messages/{client_msg_id}/tts")
-def generate_tts_message(user_id: str, client_thread_id: str, client_msg_id: str, payload: TTSRequest):
+@app.post("/patients/{patient_id}/threads/{client_thread_id}/messages/{client_msg_id}/tts")
+def generate_tts_message(patient_id: str, client_thread_id: str, client_msg_id: str, payload: TTSRequest):
     """
     TTS only. client_msg_id here is NOT server-generated — the client already
     created the message row (type='tts') and got this id back from that save,
@@ -63,7 +65,7 @@ def generate_tts_message(user_id: str, client_thread_id: str, client_msg_id: str
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"TTS generation failed: {e}")
 
-    output_storage_path = f"{user_id}/tts/{client_thread_id}/{client_msg_id}.wav"
+    output_storage_path = f"{patient_id}/tts/{client_thread_id}/{client_msg_id}.wav"
 
     try:
         with open(local_output_path, "rb") as f:
@@ -73,7 +75,8 @@ def generate_tts_message(user_id: str, client_thread_id: str, client_msg_id: str
     except Exception as e:
         raise HTTPException(status_code=502, detail=f"Upload to S3 failed: {e}")
     finally:
-        os.remove(local_output_path)
+        if os.path.exists(local_output_path):
+            os.remove(local_output_path)
 
     return {
         "output_audio_path": output_storage_path,
