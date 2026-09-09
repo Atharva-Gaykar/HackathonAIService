@@ -14,8 +14,8 @@ class TTSRequest(BaseModel):
     text: str
 
 
-@app.post("/users/{user_id}/threads/{client_thread_id}/messages/{client_msg_id}/stt")
-def transcribe_message(user_id: str, client_thread_id: str, client_msg_id: str):
+@app.post("/users/{user_id}/threads/{client_thread_id}/messages/{client_msg_id}/{lang_code}/stt")
+def transcribe_message(user_id: str, client_thread_id: str, client_msg_id: str, lang_code: str):
     """
     STT only. Path params are the three IDs the client already has —
     client_msg_id is the id it generated before uploading its audio.
@@ -23,8 +23,8 @@ def transcribe_message(user_id: str, client_thread_id: str, client_msg_id: str):
     Flow: pull the client's audio from S3 -> transcribe -> return the text.
     No TTS, no DB write here.
     """
-    input_path = f"{user_id}/stt/{client_thread_id}/msg_{client_msg_id}.wav"
-
+    input_path = f"{user_id}/stt/{client_thread_id}/{client_msg_id}.wav"
+    
     try:
         audio_bytes = supabase_client.storage.from_(BUCKET_NAME).download(input_path)
     except Exception as e:
@@ -33,7 +33,7 @@ def transcribe_message(user_id: str, client_thread_id: str, client_msg_id: str):
     try:
         transcription = transcriber.transcribe(
             audio_path=audio_bytes,
-            lang_code="hi",
+            lang_code=lang_code,
             decoder="rnnt",  # best for elder speech
         )
     except Exception as e:
