@@ -1,6 +1,7 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch
 torchaudio
+torchcodec
 pydantic==2.11.7
 langchain_huggingface
 langchain-groq==1.1.1
