@@ -63,7 +63,7 @@ def generate_tts_message(user_id: str, client_thread_id: str, client_msg_id: str
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"TTS generation failed: {e}")
 
-    output_storage_path = f"{user_id}/tts/{client_thread_id}/msg_{client_msg_id}.wav"
+    output_storage_path = f"{user_id}/tts/{client_thread_id}/{client_msg_id}.wav"
 
     try:
         with open(local_output_path, "rb") as f:
