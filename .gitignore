@@ -9,11 +9,10 @@ token.json
 /venv
 
 
-/temp_output.wav
-/Notebooks
-
-/tts_outputs
-/Audio Samples
+temp_output.wav
+Notebooks/
+tts_outputs/
+Audio Samples/
 
 # --- Python Environment ---
 __pycache__/
