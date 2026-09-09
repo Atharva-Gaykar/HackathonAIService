@@ -30,3 +30,7 @@ except Exception as e:
     print(f"📋 Error Details: {str(e)}")
 
 
+
+USER_ID = "8b56dd78-0eb9-4b1f-b161-856d60c0168c"
+THREAD_ID = "2ce7b1c2-8b5f-4b81-b8ae-a1a299d76f30"
+INPUT_AUDIO_PATH = f"{USER_ID}/stt/{THREAD_ID}/65ed9212-6166-4f76-baf1-55971b824998.wav"
