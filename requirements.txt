@@ -10,7 +10,7 @@ uvicorn
 python-dotenv
 SQLAlchemy==2.0.41
 psycopg2-binary==2.9.9
-transformers
+transformers==4.46.1
 soundfile
 sentencepiece 
 supabase
