@@ -1,5 +1,7 @@
+import io
 from pathlib import Path
-from typing import Union
+from typing import BinaryIO, Union
+
 import soundfile as sf
 import torch
 import torchaudio
@@ -18,6 +20,9 @@ MODEL = AutoModel.from_pretrained(
 MODEL.eval()
 
 
+AudioInput = Union[str, Path, bytes, BinaryIO]
+
+
 # Transcriber Class
 class IndicASRTranscriber:
     """ASR handler utilizing the globally loaded IndicConformer model."""
@@ -30,12 +35,19 @@ class IndicASRTranscriber:
         self.model = model
         self.device = device
 
-    def preprocess_audio(self, audio_path: Union[str, Path]) -> torch.Tensor:
-        path = Path(audio_path)
-        if not path.is_file():
-            raise FileNotFoundError(f"Audio file not found at: {path.resolve()}")
+    def preprocess_audio(self, audio_path: AudioInput) -> torch.Tensor:
+        if isinstance(audio_path, (str, Path)):
+            path = Path(audio_path)
+            if not path.is_file():
+                raise FileNotFoundError(f"Audio file not found at: {path.resolve()}")
+            source = str(path)
+        elif isinstance(audio_path, bytes):
+            source = io.BytesIO(audio_path)
+        else:
+            # already file-like (e.g. io.BytesIO)
+            source = audio_path
 
-        audio_data, sr = sf.read(str(path))
+        audio_data, sr = sf.read(source)
         wav = torch.tensor(audio_data, dtype=torch.float32)
 
         # Convert multi-channel to mono
@@ -58,7 +70,7 @@ class IndicASRTranscriber:
     @torch.inference_mode()
     def transcribe(
         self,
-        audio_path: Union[str, Path],
+        audio_path: AudioInput,
         lang_code: str = "hi",
         decoder: str = "ctc",
     ) -> str:
@@ -72,7 +84,6 @@ class IndicASRTranscriber:
         if isinstance(transcription, (list, tuple)):
             return transcription[0]
         return transcription
-
 
 
 # singleton instance

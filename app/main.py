@@ -1,11 +1,11 @@
 from app.stt_model import transcriber
 from app.tts_model import tts_generator
-from app.database.object_store import supabase
+from app.database.object_store import supabase_client
 
 
 
 # Example: upload or query directly using the client
-buckets = supabase.storage.list_buckets()
+buckets = supabase_client.storage.list_buckets()
 audio_file = "Audio Samples/Hindi Sample.wav"
 
 # Transcribe directly using the pre-initialized instance

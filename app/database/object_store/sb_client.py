@@ -15,4 +15,4 @@ if not SUPABASE_URL or not SUPABASE_SERVICE_ROLE_KEY:
     )
 
 # Instantiate the single shared client
-supabase: Client = create_client(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY)
+supabase_client: Client = create_client(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY)
