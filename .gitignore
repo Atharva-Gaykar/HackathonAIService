@@ -9,6 +9,7 @@ token.json
 /venv
 
 
+/temp_output.wav
 /Notebooks
 
 /tts_outputs
